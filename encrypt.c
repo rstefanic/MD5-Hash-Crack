@@ -4,8 +4,6 @@
  * Robert Stefanic
  *
  * A program built around the built in crypt function 
- *
- * When compiled, make sure it's linked with -lcrypt 
  */
 #include <stdio.h>
 #include <string.h>
