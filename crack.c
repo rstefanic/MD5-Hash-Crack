@@ -3,7 +3,7 @@
  *
  * Robert Stefanic <rps>
  *
- * From CS50's pset 2
+ * CS50 pset 2
  */
 
 #include <stdio.h>
