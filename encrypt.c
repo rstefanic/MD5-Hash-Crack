@@ -1,5 +1,5 @@
 /*
- * Encrypt a password with the MD5 Hash 
+ * Encrypt a password with an MD5 hash function 
  *
  * Robert Stefanic
  *
