@@ -1,5 +1,5 @@
 /*
- * MD5 Hash Crack
+ * MD5 Hash Decoder
  *
  * Robert Stefanic <rps>
  *
